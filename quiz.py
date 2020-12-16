@@ -194,5 +194,5 @@ while running:
     pygame.display.update()
      
 
-pygame.time.delay(2000)  # 충돌 후 바로 꺼지는게 아니라, 2초 딜레이
+pygame.time.delay(1500)  # 충돌 후 바로 꺼지는게 아니라, 1.5초 딜레이
 pygame.quit() 
